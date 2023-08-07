@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+@import "tailwind/tailwindcss";
+@import "primeng/primeng";
+
+input {
+  outline: none;
+}
+
+.dropdown input{
+  width: 0px !important;
+}

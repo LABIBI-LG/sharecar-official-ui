@@ -1,0 +1,21 @@
+{
+  "SHARE": {
+    "EN": "en",
+    "ZH-TW": "zh-tw"
+  },
+  "HOME": {
+    "TITLE": "Home"
+  },
+  "DESCRIPTION": {
+    "TITLE": "Description"
+  },
+  "AREA_QUERY": {
+    "TITLE": "Area Query"
+  },
+  "FAQ": {
+    "TITLE": "Q&A"
+  },
+  "CONTACT": {
+    "TITLE": "contact"
+  }
+}

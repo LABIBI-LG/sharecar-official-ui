@@ -1,0 +1,21 @@
+{
+  "SHARE": {
+    "EN": "英文",
+    "ZH-TW": "中文"
+  },
+  "HOME": {
+    "TITLE": "首頁"
+  },
+  "DESCRIPTION": {
+    "TITLE": "服務說明頁"
+  },
+  "AREA_QUERY": {
+    "TITLE": "據點查詢"
+  },
+  "FAQ": {
+    "TITLE": "Q&A"
+  },
+  "CONTACT": {
+    "TITLE": "聯絡我們"
+  }
+}
